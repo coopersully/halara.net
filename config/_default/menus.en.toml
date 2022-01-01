@@ -10,8 +10,8 @@ url = "blog"
 weight = 2
 
 [[main]]
-name = "Pricing"
-url = "pricing"
+name = "Store"
+url = "https://halara.tebex.io"
 weight = 3
 
 [[main]]
