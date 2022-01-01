@@ -5,6 +5,8 @@ author: Cooper Sullivan
 authorLink: "https://coopersully.me"
 tags: ["server", "ranks", "donate", "documentation"]
 categories: ["documentation"]
+image: "images/posts/default.png"
+type: "featured"
 draft: false
 ---
 
@@ -64,11 +66,7 @@ This kit is available **once every twenty-four (24) hours** and contains the fol
 
 ## How do we spend your money?
 If you're curious as to where your money is going, the graph below shows an estimate of how we spend the money from each purchase.
-"Server Hosting" : 40
-"Plugin Development" : 25
-"Server Maintenance": 15
-"Server Staff": 10
-"Tithes": 10
+![](images/posts/pie-chart.png)
 
 ## Have an issue with your purchase?
 If you have any questions, concerns, or issues regarding any of your past or future purchase(s), feel free to join our public Discord server by clicking the following link: [https://discord.gg/halara/](https://discord.gg/ZbrzN5RmyR)

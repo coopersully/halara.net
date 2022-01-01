@@ -5,6 +5,8 @@ author: Cooper Sullivan
 authorLink: "https://coopersully.me"
 tags: ["server", "commands", "documentation"]
 categories: ["tipsandtricks"]
+image: "images/posts/default.png"
+type: "featured"
 draft: false
 ---
 
