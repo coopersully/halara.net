@@ -19,8 +19,9 @@ If you would like to contact us about joining Halara's moderation team, administ
 {{</ faq >}}
 
 {{< faq "WTF is a \"Currency Token\"?" >}}
-Halara's survival servers offer two forms of currency: your player's digital currency, or, bank account (accessed via /balance) and currency tokens. Currency tokens are the 'physical form; of currency used in our survival servers. 
-You can turn currency tokens into digital currency by placing them in your inventory and typing ``/deposit``. Likewise, you can turn digital currency into currency tokens by typing ``/withdraw <amount>``.
+Halara's survival servers offer two forms of currency: your player's *digital currency*, or, bank account (accessed via /balance) and currency tokens. Currency tokens are the *physical form*; of currency used in our survival servers. 
+* You can turn currency tokens into *digital currency* by placing them in your inventory and typing ``/deposit``
+* Likewise, you can turn *digital currency* into currency tokens by typing ``/withdraw <amount>``
 {{</ faq >}}
 
 {{< faq "How do I unlock kits?" >}}
