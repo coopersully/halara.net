@@ -1,5 +1,5 @@
 ######################## default configuration ####################
-baseURL = "https://halara-net-eby49.ondigitalocean.app/"
+baseURL = "https://mc.halara.net/"
 title = "Halara Network"
 theme = "bigspring-light"
 # post pagination
