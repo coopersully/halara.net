@@ -6,7 +6,7 @@ authorLink: "https://coopersully.me"
 tags: ["server", "mods", "documentation"]
 categories: ["documentation"]
 image: "images/posts/headers/default.png"
-type: "featured"
+type: "regular"
 draft: false
 ---
 
