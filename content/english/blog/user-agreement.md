@@ -5,7 +5,7 @@ author: Cooper Sullivan
 authorLink: "https://coopersully.me"
 tags: ["server", "rules", "documentation"]
 categories: ["documentation"]
-image: "images/posts/default.png"
+image: "images/posts/headers/default.png"
 type: "featured"
 draft: false
 ---
