@@ -2,12 +2,12 @@
 ####################### Banner #########################
 banner:
   title : "Built around community, <br> passionate about innovation."
-  image : "img/home/halara-network.png"
+  image : "images/halara-network.png"
   content : "Halara (or, “take it easy” in Greek) is a server network built around community with a passion for innovation. We have several different servers, with many types of gameplay to choose from, including survival, roleplay, creative, minigames, and more. With each server, we aim to create a new experience that you can't find anywhere else. In addition to this, our servers are constantly being updated and added to, so there's always new features to experience."
   button:
     enable : true
-    label : "Contact Us"
-    link : "contact"
+    label : "Learn More"
+    link : "blog"
 
 ##################### Feature ##########################
 feature:
@@ -53,11 +53,11 @@ service:
     # service item loop
     - title : "Get involved; stay connected."
       images:
-      - "img/home/slideshow/axolotl-association.png"
-      - "img/home/slideshow/dragon-statue.png"
-      - "img/home/slideshow/gt63-house.png"
-      - "img/home/slideshow/maddie00-house.png"
-      - "img/home/slideshow/saikho-boat.png"
+      - "images/home/slideshow/1.png"
+      - "images/home/slideshow/2.png"
+      - "images/home/slideshow/3.png"
+      - "images/home/slideshow/4.png"
+      - "images/home/slideshow/5.png"
       content : "If you have any questions or issues, want to learn more about the server, or just want to connect with Halara's community, feel free to join our Discord server."
       button:
         enable : true
@@ -67,7 +67,7 @@ service:
     # service item loop
     - title : "Our Motivation"
       images:
-      - "img/home/shaders/1.png"
+      - "images/home/shaders/1.jpg"
       content : "Innovation is what many servers lack; each server is repetitive with the same beliefs and ideas. Halara aims to overhaul the Minecraft multiplayer experience in every way it can."
       button:
         enable : false
@@ -77,7 +77,7 @@ service:
     # service item loop
     - title : "Excellence and Professionalism"
       images:
-      - "img/home/shaders/1.png"
+      - "images/home/shaders/2.jpg"
       content : "With over five years of experience, we've learned a thing or two about running a Minecraft server. Our administrative team has carefully picked and customized each modification to the server to perfectly play it's own role."
       button:
         enable : false
