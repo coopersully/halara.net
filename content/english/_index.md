@@ -36,7 +36,7 @@ feature:
       
     # feature item loop
     - name : "Daily Rewards"
-      icon : "fas fa-tachometer-alt"
+      icon : "fas fa-box-open"
       content : "There's something new every day with daily rewards from quest NPC's and server voting rewards."
       
     # feature item loop
