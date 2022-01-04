@@ -44,7 +44,7 @@ If it's your first time joining the server, we recommend reading the user agreem
 ## Do not use exploits, bugs, or modifications of any kind.
 - This includes lag machines, duplication glitches, etc.
 - Advantage-granting modifications and hacked clients are strictly prohibited.
-- A list of allowed modifications can be found in [the "Allowed Modifications" post](/posts/allowed-modifications/).
+- A list of allowed modifications can be found in [the "Allowed Modifications" post](/blog/allowed-modifications/).
 
 ## Do not ask staff for items, permissions, roles, etc.
 - Please do not put our server staff in the difficult position of declining requests for preferential treatment.
