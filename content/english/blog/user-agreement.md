@@ -31,9 +31,10 @@ If it's your first time joining the server, we recommend reading the user agreem
 - Don't leave floating trees or abandon unfinished builds.
 - This includes dirt huts and unfixed creeper explosions in the wild.
 
-## Griefing, raiding, and stealing are allowed in unclaimed areas.
+## Stealing and raiding are allowed in unclaimed areas.
 - If your land is claimed, both the claim and the rules prohibit the raiding of said area.
 - Unclaimed land is fair game- if your land is unclaimed whatsoever it can legally be raided.
+- **Excessive griefing is not allowed in any context.** You may break parts of a player's base to access locked areas, break doors, etc. but anything past this point is deemed excessive.
 
 ## PVP is enabled and allowed.
 - If you are legally killed, your items will not be refunded.
