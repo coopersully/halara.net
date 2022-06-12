@@ -17,7 +17,7 @@ feature:
     # feature item loop
     - name : "Completely Custom Economy"
       icon : "fas fa-code"
-      content : "From currency tokens, to npc-towns, to player markets, to the auction house, the economy is always booming."
+      content : "From currency tokens, to npc-towns, and from player markets, to the auction house, the economy is always booming."
       
     # feature item loop
     - name : "Land Claiming"
