@@ -13,9 +13,13 @@ draft: false
 
 If you're late to the party, Minecraft: Java Edition 1.19 is out everywhere; and with the new update
 comes a new season of Halara! Welcome to Halara: Season 3. Here are a few of the highlights:
-	
+
+# General changes
 - **No map reset this time**; this includes inventory, etc.
 - **All MCMMO skills from previous seasons will be kept**. This point may carry on to future seasons; we're testing out skill carry-overs.
+
+# New content
+## Items and blocks
 - **There are 50+ new Treasure Items** to collect, upgrade, & explore with 2 new questlines.
 - Treasure Items are being slowly integrated into the world, so look out for new items in dungeon loot and boss fights!
 - Let's be honest, The Warden's loot is pretty lame in survival. We upgraded his loot table to drop a few new goodies:
@@ -34,5 +38,14 @@ comes a new season of Halara! Welcome to Halara: Season 3. Here are a few of the
     * **"Infernium** (ARMOR SET)
     * **"The Starless Night"** (SWORD)
     * **"Miner's Hard hat"** (HELMET)
-- "Cave Traders" now spawn rarely on players while mining. They offer rare (and sometimes random) trades for minerals, food, potions, and exclusive treasure items.
-- Economy is being re-balanced slowly, so you may see some updates to the prices of spawners, etc.
+## Mobs
+- **"Cave Traders"** now spawn rarely on players while mining. They offer rare (and sometimes random) trades for minerals, food, potions, and exclusive treasure items.
+
+# Balances
+- The Ultimate-exclusive **/warp Hideout** has been revamped with and experience cycler!
+- **Economy is being re-balanced** slowly, so you may see some updates to the prices of spawners, etc.
+
+# Upcoming content
+- There should be some major changes upcoming with optimization of economy and new ways to spend, buy, and more.
+- Seasonal vaults are being upgraded! You will soon be able to purchase additonal season vaults as well as vault perks.
+- Teams are coming soon- share money, land, items, and... taxes?
