@@ -6,7 +6,7 @@ weight = 1
 
 [[main]]
 name = "Archive"
-url = "blog"
+url = "categories"
 weight = 2
 
 [[main]]
@@ -42,6 +42,11 @@ url = "categories/documentation"
 [[footer_middle]]
 name = "Tips & Tricks"
 url = "categories/tipsandtricks"
+
+[[footer_middle]]
+name = "Updates"
+url = "categories/updates"
+
 
 # footer menu right
 [[footer_right]]
