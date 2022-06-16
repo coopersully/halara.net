@@ -5,7 +5,7 @@ author: Cooper Sullivan
 authorLink: "https://coopersully.me"
 tags: ["server", "commands", "economy", "documentation"]
 categories: ["tipsandtricks"]
-image: "images/posts/headers/default.png"
+image: "images/posts/headers/skeleton.png"
 type: "regular"
 draft: false
 ---
