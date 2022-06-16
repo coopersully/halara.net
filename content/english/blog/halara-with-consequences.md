@@ -24,8 +24,8 @@ it's literally in the company motto).
 ## How to enter
 All participants must purchase a $2.00 Tournament Entry ticket in order to participate. This guarentees you a spot in the tournament.
 In the days leading up to the tournament, this page will update with a link to purchase a ticket online as well as an IP address.
-* **IP Address:** NOT YET PROVIDED
-* **Purchase an entry ticket:** NOT YET PROVIDED
+* **IP Address:** ``NOT YET AVAILABLE``
+* **Purchase an Entry Ticket:** (Click here to purchase an entry ticket.)[https://halara.tebex.io/category/events]
 
 ## How to play
 
