@@ -46,4 +46,5 @@ it's literally in the company motto).
 ## Tournament Date
 The tournament currently does not have a set date, one is being voted upon right now in Halara's Discord server.
 It will take place somewhere between **Jun 26 - Jul 2** and will run from the start date until a player/team has
-completed the required tasks to win the tournament.
+completed the required tasks to win the tournament. [If you'd like to join the Discord server and take part in voting
+on the tournament date, you can do so by clicking here.](https://discord.com/invite/ZbrzN5RmyR)
