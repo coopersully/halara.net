@@ -1,4 +1,4 @@
 ---
 title: "Events"
-image: "images/posts/headers/events.png"
+image: "images/posts/headers/server-events.png"
 ---
