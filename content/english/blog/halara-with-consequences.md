@@ -31,26 +31,30 @@ In the days leading up to the tournament, this page will update with a link to p
 
 ### Complete the tasks
 All players begin at the same time with the same book, given upon tournament start.
-	* This book contains a set list of tasks to complete
-	* These tasks are identical for every player.
+* This book contains a set list of tasks to complete
+* These tasks are identical for every player.
 
 ### Individual or duo
 You may play by yourself or with one (1) other person of your choosing.
-	* Teams may not exceed two (2) players total.
-	* Each player must purchase their own entry ticket.
+* Teams may not exceed two (2) players total.
+* Each player must purchase their own entry ticket.
 
 ## ... With Consequences
-###Every time you die, you lose one (1) heart permanently.
-	* If you have more than one (1) heart upon death, you will respawn.
-	* Once you lose all of your hearts, you will be banned for twenty-four (24) hours.
-		* Upon re-joining, if the tournament is still ongoing, you will once again have full hearts.
-###Players can regain hearts by preforming purification rituals.
+### Every time you die, you lose one (1) heart permanently.
+* If you have more than one (1) heart upon death, you will respawn.
+* Once you lose all of your hearts, you will be banned for twenty-four (24) hours.
+	* Upon re-joining, if the tournament is still ongoing, you will once again have full hearts.
+	
+### Players can regain hearts by preforming purification rituals.
+
 #### Purification Ritual
-	* Apply **1x Weakness Potion** to your player and eat **1x Golden Apple**.
-	* This will grant the player one (1) more heart.
+* Apply **1x Weakness Potion** to your player and eat **1x Golden Apple**.
+* This will grant the player one (1) more heart.
+
 #### Super Purification Ritual
-	* Apply **1x Weakness Potion** to your player and eat **1x Enchanted Golden Apple**.
-	* This will restore the player's health completely.
+* Apply **1x Weakness Potion** to your player and eat **1x Enchanted Golden Apple**.
+* This will restore the player's health completely.
+
 ### No players health can exceed ten (10) permanent hearts
 This is not necessarily a rule, but it's limited by the server. Rituals can still be performed
 at ten (10) hearts, but will grant no health increase.
