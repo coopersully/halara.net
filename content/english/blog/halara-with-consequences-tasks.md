@@ -17,7 +17,7 @@ Use 9x Diamonds in a crafting table to create 1x Diamond Block.
 ![](https://i.imgur.com/sE3Vb7w.png)
 
 # 02. Gain 50+ experience levels.
-There are various ways of gaining experience, but one player on the team must have at least 50 levels *at the time of tournament completion*.
+There are various ways of gaining experience, but **one player on the team must have at least 50 levels at the time of tournament completion**.
 
 # 03. Craft and power a beacon.
 You must craft a beacon and power it with at least 9x beacon-applicable base blocks. You have free reign to determine which blocks you will use.
@@ -114,6 +114,7 @@ Travel the lands of the overworld and gather at least one log or plank of each t
 * Acacia
 * Dark Oak
 * Mangrove
+
 Note that stripped variants are not required to complete this task.
 
 # 08. Create a rainbow sheep!
