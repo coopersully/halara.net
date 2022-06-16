@@ -25,7 +25,7 @@ it's literally in the company motto).
 All participants must purchase a $2.00 Tournament Entry ticket in order to participate. This guarentees you a spot in the tournament.
 In the days leading up to the tournament, this page will update with a link to purchase a ticket online as well as an IP address.
 * **IP Address:** ``NOT YET AVAILABLE``
-* **Purchase an Entry Ticket:** (Click here to purchase an entry ticket.)[https://halara.tebex.io/category/events]
+* **Purchase an Entry Ticket:** [Click here to purchase an entry ticket.](https://halara.tebex.io/category/events)
 
 ## How to play
 
@@ -61,10 +61,10 @@ at ten (10) hearts, but will grant no health increase.
 
 ### The first individual/team to complete all of the tasks wins.
 The winning team recieves the entirety of the cash pool, determined by the amount of entry tickets purchased.
-	* Halara makes no money off of this tournament.
-	* There is only one winning team/individual.
-	* Payment will be equally divided between team members.
-	* Payment can be performed via PayPal or Venmo.
+* Halara makes no money off of this tournament.
+* There is only one winning team/individual.
+* Payment will be equally divided between team members.
+* Payment can be performed via PayPal or Venmo.
 
 ## Scheduling & start time
 The tournament currently does not have a set date, one is being voted upon right now in Halara's Discord server.
