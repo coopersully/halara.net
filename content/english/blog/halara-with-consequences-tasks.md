@@ -130,3 +130,7 @@ An item that has all possible vanilla enchantments at their maximum values is sa
 a god-tier pair of boots would require Protection IV, Unbreaking III, and Mending.
 * There are no restrictions on what item is to be enchanted. It can be any item.
 * If you're unsure about what makes a god-tier weapon, feel free to ask a staff member.
+
+# Get out of jail free card!
+Here at Halara, we believe in violence. If you can kill a player, you can omit one (1) task from your
+list. This can only be redeemed once per team.
