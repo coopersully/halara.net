@@ -67,7 +67,9 @@ The winning team recieves the entirety of the cash pool, determined by the amoun
 * Payment can be performed via PayPal or Venmo.
 
 ## Scheduling & start time
-The tournament currently does not have a set date, one is being voted upon right now in Halara's Discord server.
-It will take place somewhere between **Jun 26 - Jul 2** and will run from the start date until a player/team has
-completed the required tasks to win the tournament. [If you'd like to join the Discord server and take part in voting
-on the tournament date, you can do so by clicking here.](https://discord.com/invite/ZbrzN5RmyR)
+It will take place on **Monday, June 27th, 2022** and will run from the start date until a player/team has
+completed the required tasks to win the tournament.
+
+# Contact us / Join the Discord
+If you have any questions, comments, concerns, or would like to connect with other contestants, feel free to join
+our public Discord server. [Click here to join Halara's Discord server.](https://discord.com/invite/ZbrzN5RmyR)
