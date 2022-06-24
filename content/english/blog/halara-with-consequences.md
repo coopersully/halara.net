@@ -22,10 +22,11 @@ A custom gamemode developed by Halara Network that is based off of Minecraft's v
 it's literally in the company motto).
 
 ## How to enter
-All participants must purchase a $2.00 Tournament Entry ticket in order to participate. This guarentees you a spot in the tournament.
-In the days leading up to the tournament, this page will update with a link to purchase a ticket online as well as an IP address.
-* **IP Address:** ``NOT YET AVAILABLE``
-* **Purchase an Entry Ticket:** [Click here to purchase an entry ticket.](https://halara.tebex.io/category/events)
+Entry is free of charge for all players; all you need to do is show up on the scheduled tournament date. There
+is a maximum of twenty-five (25) players for this tournament, so if you'd like to secure a spot, react to the message in Halara's
+Discord to ensure that your spot is secured.
+
+* **IP Address:** ``play.halara.net``
 
 ## How to play
 
@@ -60,11 +61,10 @@ This is not necessarily a rule, but it's limited by the server. Rituals can stil
 at ten (10) hearts, but will grant no health increase.
 
 ### The first individual/team to complete all of the tasks wins.
-The winning team recieves the entirety of the cash pool, determined by the amount of entry tickets purchased.
-* Halara makes no money off of this tournament.
-* There is only one winning team/individual.
-* Payment will be equally divided between team members.
-* Payment can be performed via PayPal or Venmo.
+The winning team recieves one (1) of the three (3) rewards listed below.
+1. The **Crown of Shadows** treasure-item (Dark Rarity, Nightmare Infused).
+2. A one-time grant of ten-million dollars ($10,000,000) of in-game currency.
+3. A free grant of **MVP Rank** for both teammates.
 
 ## Scheduling & start time
 It will take place on **Monday, June 27th, 2022** and will run from the start date until a player/team has
