@@ -26,8 +26,8 @@ If you'd like to donate to help fund Halara's development (or you just want some
 | ``/stack`` converts all items and blocks in your inventory into stacks | ✔️ | ✔️ | ✔️ |
 | ``/heal`` instantly regenerates your health || ✔️ | ✔️ |
 | ``/warp exp`` teleports you to a donor-exclusive experience grinder || ✔️ | ✔️ |
-| ``/kit Butcher`` grants an iron ixe and various meats *(see below)* || ✔️ | ✔️ |
-| ``/kit Tools+`` grants enchanted iron tools and apples *(see below)* || ✔️ | ✔️ |
+| ``/kit Butcher`` grants various meats *(see below)* || ✔️ | ✔️ |
+| ``/kit MVP`` grants food and enchanted tools *(see below)* || ✔️ | ✔️ |
 | ``/anvil`` opens a portable anvil ||  ️ | ✔️ |
 | ``/fly`` toggles flight-mode for your player ||  ️ | ✔️ |
 | ``/grindstone`` opens a portable grindstone||  ️ | ✔️ |
@@ -49,17 +49,16 @@ If you'd like to donate to help fund Halara's development (or you just want some
 | Grant of in-game currency | $15,000 | $25,000 | $125,000 |
 
 
-### /kit Tools+
+### /kit MVP
 This kit is available **once every twenty (20) minutes** and contains the following items:
-- 1x Iron Sword (Unbreaking 3)
-- 16x Apple
-- 1x Iron Pickaxe (Unbreaking 3)
-- 1x Iron Axe (Unbreaking 3)
-- 1x Iron Shovel (Unbreaking 3)
+- 1x Iron Sword (Unbreaking 2)
+- 8x Apple
+- 1x Iron Pickaxe (Unbreaking 2)
+- 1x Iron Axe (Unbreaking 2
+- 1x Iron Shovel (Unbreaking 2)
 
 ### /kit Butcher
 This kit is available **once every twenty-four (24) hours** and contains the following items:
-- 1x Iron Axe
 - 8x Cooked Mutton
 - 8x Cooked Beef
 - 8x Cooked Porkchop
