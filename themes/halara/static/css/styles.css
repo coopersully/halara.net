@@ -34,3 +34,7 @@
 .full-vh {
     min-height: calc(100vh - 50px);
 }
+
+.svg-bottom {
+    margin-bottom: -5px;
+}
