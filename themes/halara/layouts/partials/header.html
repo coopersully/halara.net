@@ -8,7 +8,7 @@
             <ul class="navbar-nav">
                 {{ range .Site.Menus.main }}
                     {{ if not .Parent }}
-                        {{ if or (not .HasChildren) (eq $.URL .URL) }}
+                        {{ if or (not .HasChildren) (eq .Permalink .URL) }}
                             <li class="nav-item">
                                 <a class="nav-link" href="{{ .URL }}">{{ .Name }}</a>
                             </li>
