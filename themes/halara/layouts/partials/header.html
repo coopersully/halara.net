@@ -11,7 +11,7 @@
                     {{/* Check if the menu item has no parent (i.e., it's a top-level item) */}}
                     {{ if not .Parent }}
                         {{/* Render single link if no children or current page is this menu item */}}
-                        {{ if or (not .HasChildren) (eq .Permalink .URL) }}
+                        {{ if or (not .HasChildren) (eq $.Permalink .URL) }}  <!-- Fixed line -->
                             <li class="nav-item">
                                 <a class="nav-link" href="{{ .URL }}">{{ .Name }}</a>
                             </li>
