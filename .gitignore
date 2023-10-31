@@ -1,3 +1,4 @@
 public
 desktop.ini
 .idea/*
+.hugo_build.lock
