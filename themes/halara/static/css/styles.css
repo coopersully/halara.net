@@ -1,0 +1,36 @@
+.btn-halara {
+    color: #fff;
+    background-color: #FFBB42;
+    border-color: #FFBB42;
+}
+
+.btn-halara:hover {
+    color: #fff;
+    background-color: #d29222;
+    border-color: #d29222;
+}
+
+.btn-halara-secondary {
+    color: #fff;
+    background-color: #FFA39E;
+    border-color: #FFA39E;
+}
+
+.btn-halara-secondary:hover {
+    color: #fff;
+    background-color: #d27a76;
+    border-color: #d27a76;
+}
+
+.feature-card {
+    transition: all 0.2s ease-in-out;
+}
+
+.feature-card:hover {
+    transform: translateY(-5px);
+    box-shadow: 0 10px 20px rgba(0, 0, 0, 0.1);
+}
+
+.full-vh {
+    min-height: calc(100vh - 50px);
+}

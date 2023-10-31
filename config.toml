@@ -1,0 +1,40 @@
+baseURL = 'http://mc.halara.net/'
+languageCode = 'en-us'
+title = 'Halara'
+theme = 'halara'
+
+[[menu.main]]
+name = "Home"
+url = "/"
+weight = 1
+
+[[menu.main]]
+name = "Documentation"
+url = "/docs/"
+weight = 4
+    [[menu.main]]
+    name = "Allowed Mods"
+    url = "/docs/allowed_mods/"
+    parent = "Documentation"
+    [[menu.main]]
+    name = "Donation Guide"
+    url = "/docs/donation_guide/"
+    parent = "Documentation"
+
+[[menu.main]]
+name = "Guides"
+url = "/guides/"
+weight = 5
+    [[menu.main]]
+    name = "Economy 101"
+    url = "/guides/economy/"
+    parent = "Guides"
+    [[menu.main]]
+    name = "Commands 101"
+    url = "/guides/commands/"
+    parent = "Guides"
+
+[[menu.main]]
+name = "Store"
+url = "https://halara.tebex.io/"
+weight = 6
