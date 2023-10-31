@@ -6,16 +6,16 @@
         </button>
         <div class="collapse navbar-collapse d-flex justify-content-center" id="navbarNav">
             <ul class="navbar-nav">
-                {{ $currentPage := . }}
                 {{ range .Site.Menus.main }}
                     {{ if not .Parent }}
-                        {{ if or (not .HasChildren) (eq $currentPage.URL .URL) }}
+                        {{ if or (not .HasChildren) (eq $.URL .URL) }}
                             <li class="nav-item">
                                 <a class="nav-link" href="{{ .URL }}">{{ .Name }}</a>
                             </li>
                         {{ else }}
                             <li class="nav-item dropdown">
-                                <a class="nav-link dropdown-toggle" href="{{ .URL }}" id="{{ .Identifier }}" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+                                <a class="nav-link dropdown-toggle" href="{{ .URL }}" id="{{ .Identifier }}" role="button"
+                                   data-bs-toggle="dropdown" aria-expanded="false">
                                     {{ .Name }}
                                 </a>
                                 <ul class="dropdown-menu" aria-labelledby="{{ .Identifier }}">
