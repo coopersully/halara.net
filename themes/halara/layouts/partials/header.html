@@ -1,4 +1,4 @@
-<nav class="navbar navbar-expand-lg navbar-light" style="background: white">
+<nav class="navbar navbar-expand-lg navbar-light bg-light">
     <div class="container">
         <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav"
                 aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
@@ -6,19 +6,24 @@
         </button>
         <div class="collapse navbar-collapse d-flex justify-content-center" id="navbarNav">
             <ul class="navbar-nav">
+                {{/* Iterate through the main menu */}}
                 {{ range .Site.Menus.main }}
+                    {{/* Check if the menu item has no parent (i.e., it's a top-level item) */}}
                     {{ if not .Parent }}
+                        {{/* Render single link if no children or current page is this menu item */}}
                         {{ if or (not .HasChildren) (eq .Permalink .URL) }}
                             <li class="nav-item">
                                 <a class="nav-link" href="{{ .URL }}">{{ .Name }}</a>
                             </li>
                         {{ else }}
+                            {{/* Render dropdown if has children and isn't the current page */}}
                             <li class="nav-item dropdown">
                                 <a class="nav-link dropdown-toggle" href="{{ .URL }}" id="{{ .Identifier }}" role="button"
                                    data-bs-toggle="dropdown" aria-expanded="false">
                                     {{ .Name }}
                                 </a>
                                 <ul class="dropdown-menu" aria-labelledby="{{ .Identifier }}">
+                                    {{/* Iterate through and render child menu items */}}
                                     {{ range .Children }}
                                         <li><a class="dropdown-item" href="{{ .URL }}">{{ .Name }}</a></li>
                                     {{ end }}
