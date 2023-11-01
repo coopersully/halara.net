@@ -14,13 +14,18 @@ description: |
 If you'd like to purchase a rank on one of our servers, you can find an overhead view of each tier and what perks it
 includes below. [Looking for the store? Click here to donate.](https://halara.tebex.io/)
 
-## Rank Comparisons
+## Commands
 
 {{< rank_comparisons >}}
 
 ## Incrementals
 
 {{< incrementals >}}
+
+## Miscellaneous
+
+{{< misc >}}
+
 
 ## How do we spend your money?
 
@@ -31,5 +36,6 @@ includes below. [Looking for the store? Click here to donate.](https://halara.te
 
 ## Have an issue with your purchase?
 
-> If you have any questions, concerns, or issues regarding any of your past or future purchase(s), feel free to [join our
+> If you have any questions, concerns, or issues regarding any of your past or future purchase(s), feel free
+> to [join our
 > public Discord server.](https://discord.gg/ZbrzN5RmyR)
