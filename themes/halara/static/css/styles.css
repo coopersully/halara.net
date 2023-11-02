@@ -38,3 +38,7 @@
 .svg-bottom {
     margin-bottom: -5px;
 }
+
+.card {
+    border: 0;
+}

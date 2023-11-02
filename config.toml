@@ -13,6 +13,10 @@ name = "Documentation"
 url = "/docs/"
 weight = 4
     [[menu.main]]
+    name = "User Agreement"
+    url = "/docs/user_agreement/"
+    parent = "Documentation"
+    [[menu.main]]
     name = "Allowed Mods"
     url = "/docs/allowed_mods/"
     parent = "Documentation"
